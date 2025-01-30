@@ -1,4 +1,4 @@
-* About the reviung41:
+* About the reviung41: 
 * The REVIUNG41 is 41-key column staggered keyboard.
 * Keyboard Maintainer: [gtips](https://github.com/gtips)
 * Hardware Supported: REVIUNG41 PCBs, Pro Micro supported
